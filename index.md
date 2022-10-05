@@ -11,3 +11,10 @@ The following is block of code
 ```
 import numpy as np
 ```
+this is an inline different format ```#```
+
+Now, sometimes it useful to create task lists
+
+- [x] something that should be done
+- [x] another thing that should be done
+- [ ] a third thing that should be done
